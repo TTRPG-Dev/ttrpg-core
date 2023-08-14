@@ -27,9 +27,9 @@ classifiers = [
 dependencies = []
 
 [project.urls]
-Documentation = "https://github.com/unknown/ttrpg-core#readme"
-Issues = "https://github.com/unknown/ttrpg-core/issues"
-Source = "https://github.com/unknown/ttrpg-core"
+Documentation = "https://github.com/TTRPG-Dev/ttrpg-core#readme"
+Issues = "https://github.com/TTRPG-Dev/ttrpg-core/issues"
+Source = "https://github.com/TTRPG-Dev/ttrpg-core"
 
 [tool.hatch.version]
 path = "src/ttrpg_core/__about__.py"
